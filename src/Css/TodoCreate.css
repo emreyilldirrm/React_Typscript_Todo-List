@@ -1,0 +1,26 @@
+.todo-create {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.todo-create_input {
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+    outline: none;
+
+}
+
+.todo-create_button {
+    background-color: gold;
+    border: none;
+    padding: 10px 25px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
