@@ -1,4 +1,4 @@
-### Project Description: Todo List Application
+## Project Description: Todo List Application
 
 This project is a Todo List application developed using React and TypeScript. It enables users to manage their tasks effectively and utilizes Redux for state management.
 
